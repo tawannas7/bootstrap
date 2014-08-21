@@ -1,9 +1,11 @@
 @import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
 
 body {
-  padding-top: 125px;
+  padding-top: 80px;
 }
 
 .well {
   height: 500px;
+  padding-top: 40px;
 }
+
