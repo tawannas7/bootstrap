@@ -10,8 +10,7 @@ body {
 .well {
   height: 750px;
   padding-top: 40px;
-  background-color: #0000FF;
-  opacity: 0.5;
+  background-color: rgb(216,0,0);
   
 }
 head {
