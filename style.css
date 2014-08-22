@@ -11,6 +11,7 @@ body {
   height: 750px;
   padding-top: 40px;
   background-color: rgb(216,0,0);
+  opacity: 5.0;
   
 }
 head {
