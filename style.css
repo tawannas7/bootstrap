@@ -3,13 +3,13 @@
 body {
   padding-top: 80px;
   position: relative;
-  background-color: #D00000;
+  background-color: #303030;
 }
 
 .well {
   height: 750px;
   padding-top: 40px;
-  background-color: #303030;
+  background-color: #800000;
   
 }
 head {
