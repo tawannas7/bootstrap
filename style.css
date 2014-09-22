@@ -1,18 +1,18 @@
 @import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
 
 body {
-  padding-top: 80px;
+  padding-top: 40px;
   position: relative;
   background-color: #303030;
   background-image: url("http://thumbs.dreamstime.com/x/computer-logo-19206799.jpg");
 }
 
-.well {
-  height: 750px;
-  padding-top: 40px;
+well {
+  height: 525px;
+  padding-top: 10px;
   opacity: 0.9;
   
 }
 head {
-  background-color: 996633;
+  background-color: #996633;
 }
